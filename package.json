@@ -1,0 +1,30 @@
+{
+  "name": "react-native-device-utils",
+  "version": "1.0.0",
+  "description": "Responsive React Native utility functions for device detection, scaling, and orientation.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "keywords": [
+    "react-native",
+    "responsive",
+    "device",
+    "utils",
+    "screen"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Abhishek Kumaar",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup"
+  },
+  "peerDependencies": {
+    "react-native": "*",
+    "react-native-responsive-screen": "*"
+  }
+}
