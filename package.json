@@ -1,6 +1,6 @@
 {
   "name": "react-native-device-utils",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Responsive React Native utility functions for device detection, scaling, and orientation.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
