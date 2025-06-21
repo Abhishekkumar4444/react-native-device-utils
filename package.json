@@ -16,8 +16,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Abhishekkumar4444/react-native-device-utils"
   },
+  "bugs": {
+    "url": "https://github.com/Abhishekkumar4444/react-native-device-utils/issues"
+  },
+  "homepage": "https://github.com/Abhishekkumar4444/react-native-device-utils#readme",
   "author": "Abhishek Kumaar",
   "license": "MIT",
   "scripts": {
