@@ -123,19 +123,6 @@ const styles = StyleSheet.create({
 
 ---
 
-## 📁 File Structure
-
-```
-src/
-├── device.ts       # Device size/orientation utils
-├── dimensions.ts   # vw, vh, normalize
-├── platform.ts     # isIOS, isAndroid, platformVersion
-├── responsive.ts   # getHp, getWp, getResponsiveDimension
-└── index.ts        # Export all
-```
-
----
-
 ## ✨ Author
 
 **Abhishek Kumar**  
